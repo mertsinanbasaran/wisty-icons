@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Wisty Icons</h1>
 
- <img alt="logo" src="https://raw.githubusercontent.com/mertsinanbasaran/wisty-icons/icon.png" width="60%" />
+ <img alt="logo" src="https://github.com/mertsinanbasaran/wisty-icons/blob/main/icon.png" width="60%" />
 </div>
  <br><br>
   <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-C329FF.svg?logo=apache"/>
