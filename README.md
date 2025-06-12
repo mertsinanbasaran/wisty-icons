@@ -8,13 +8,15 @@
   <img alt="Latest Version" src="https://img.shields.io/badge/Latest%20version-V1.0.0-C329FF?logo=github"/>
 
 <p>Wisty Icons is an Acode Plugin. Wisty Icons replaces Acode Icons. Wisty Icons Features are as follows;</p>
-Folder and file icons
-Modern and minimalist Icons
-Apply instantly
+<strong>Folder and file icons</strong>
+<br>
+<strong>Modern and minimalist Icons</strong>
+<br>
+<strong>Apply instantly</strong>
 
 </div>
 
-
+<br><br>
 [Click to report problems.](https://github.com/mertsinanbasaran/wisty-icons/issues)
 
 [Click for source code.](https://github.com/sebastianjnuwu/acode-plugins/tree/acode/packages/material-icons)
